@@ -13,12 +13,12 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body {
-        background-color: ${(props) => props.theme['base-background']};
+        background-color: ${(props) => props.theme.white};
         -webkit-font-smoothing: antialiased;
     }
 
     body, input, textarea, button {
-        /* font-family: 'Nunito', sans-serif; */
+        font-family: 'Hind Madurai', sans-serif;
         font-weight: 400;
         font-size: 1rem;
     }
