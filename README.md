@@ -83,7 +83,7 @@ yarn dev
 
 **Passo Importante**: Este projeto depende de uma api desenvolvida em node.js por mim também. Então clone a api abaixo, e siga o passo a passo para executá-la em sua máquina. você pode conferir mais detalhes em: 
 
-- [Wavy-api](git@github.com:henrique998/Wavy-Api.git)
+- [Wavy-api](https://github.com/henrique998/Wavy-Api)
 
 ## Contato
 
